@@ -1,0 +1,10 @@
+.grid{
+    height: 400px;
+    width: 700px; 
+    display: flex;
+    flex-wrap:wrap;
+    /* flex-direction: wrap; */
+    gap: 10%;
+    justify-content: space-between;
+    align-items: center;
+}
